@@ -1,0 +1,16 @@
+.env
+__pycache__
+venv
+.env.example
+# env
+
+# db_export
+/db_export
+
+# for audio files
+/audio
+/generated_audio
+# for database
+govbrief.db
+
+

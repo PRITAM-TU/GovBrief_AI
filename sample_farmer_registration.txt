@@ -1,0 +1,29 @@
+Sample Farmer Registration Details
+====================================
+
+You can use the following sample data to test the registration process in the GovBrief AI platform.
+
+1. Basic Information
+--------------------
+Full Name       : Ramesh Kumar
+Mobile Number   : 9876543210
+Password        : securepass123
+
+2. Agricultural Details
+-----------------------
+State           : Maharashtra
+District        : Pune
+Land (acres)    : 2.5
+Annual Income   : 120000
+Main Crops      : Soybean, Cotton, Wheat
+
+3. Alternative Sample (Small Marginal Farmer)
+---------------------------------------------
+Full Name       : Sunita Devi
+Mobile Number   : 8765432109
+Password        : farmer@2024
+State           : Bihar
+District        : Patna
+Land (acres)    : 0.8
+Annual Income   : 45000
+Main Crops      : Rice, Maize
