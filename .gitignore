@@ -32,6 +32,7 @@ venv/
 .venv/
 env/
 .env/
+.env.production 
 pip-log.txt
 pip-delete-this-directory.txt
 
